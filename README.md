@@ -1,6 +1,6 @@
 # 🏦 Credit Card Fraud Detection - FinBank AI Control Room
 
-🔗 GitHub Repository:  
+🔗 GitHub Repository:  https://github.com/Mithin-Sriram/Credit-Card-Fraud-detection-
 
 
 ---
@@ -143,7 +143,7 @@ Intern - CodTech IT Solutions
 Intern ID: CITS4018
 Week 4 Internship Project
 
-Repository :
+Repository : https://github.com/Mithin-Sriram/Credit-Card-Fraud-detection-
 
    
 
